@@ -18,6 +18,17 @@ function About() {
             <h1 className="about__heading">About Me</h1>
             <div className="about__meta">
               <p className="about__text p__color">
+                My name is Nihara Bamunusinghe, and I am currently pursuing a 
+                Bachelor of Computer Science degree at the University of Ruhuna,
+                currently in my 3rd year. I am a passionate programmer with a 
+                keen interest in exploring new technologies and staying up-to-date
+                with the latest advancements in the field. This website serves as
+                a platform for me to showcase my projects, share my knowledge, and
+                connect with fellow enthusiasts. Join me on this exciting journey 
+                as we delve into the world of programming and discover the endless 
+                possibilities it offers. Let's learn, grow, and innovate together!
+              </p>
+              {/* <p className="about__text p__color">
                 There are many variations of passages of Lorem Ipsum available,
                 but the majority have suffered in some form, by injected humour,
                 or randomised words which dont look even slightly believable. If
@@ -26,13 +37,7 @@ function About() {
               <p className="about__text p__color">
                 There are many variations of passages of Lorem Ipsum available,
                 but the majority have suffered in some form, by injected humour,
-                or randomised words which dont look even slightly believable. If
-                you are going to use a passage of Lorem Ipsum,
-              </p>
-              <p className="about__text p__color">
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered in some form, by injected humour,
-              </p>
+              </p> */}
               <div className="about__button d__flex align__items__center">
                 <a href="#">
                   <button className="about btn pointer">Download Cv</button>
